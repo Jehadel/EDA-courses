@@ -5,4 +5,4 @@ Exploratory Data Analys
 
 [Session 2](https://github.com/Jehadel/EDA-courses/blob/main/S7-Dataviz.ipynb) DataViz with Matplotlib, Seaborn and Plotly
 
-[Project](https://github.com/Jehadel/EDA-courses/blob/main/Project-EDA.ipynb) : instructions
+[Evaluation](https://github.com/Jehadel/EDA-courses/blob/main/Project-EDA.ipynb) : Project instructions

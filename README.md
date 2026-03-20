@@ -7,7 +7,7 @@ Exploratory Data Analys
 
 [Session 8](https://github.com/Jehadel/EDA-courses/blob/main/S8-EDA-practice.ipynb) : Hands on EDA exercise (e-book dataset)
 
-[Session 9] : 
+Session 9 : 
 
 - [Correction of the Session 6/7 Oil and Gas exercise](https://github.com/Jehadel/EDA-courses/blob/main/S9-Oil-and-Gas-Exercise-ANSWERS.ipynb)
 

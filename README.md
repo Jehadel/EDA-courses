@@ -11,7 +11,7 @@ Session 9 :
 
 - [Correction of the Session 6/7 Oil and Gas exercise](https://github.com/Jehadel/EDA-courses/blob/main/S9-Oil-and-Gas-Exercise-ANSWERS.ipynb)
 
-- [Correction of the Session 8 exercise (e-books)]
+- [Correction of the Session 8 exercise (e-books)](https://github.com/Jehadel/EDA-courses/blob/main/S9-EDA-correction.ipynb)
 
 - [Introduction to Dash/Plotly](https://github.com/Jehadel/EDA-courses/blob/main/S9-bonus-dash.ipynb) : create a dashboard with the Dash/Plotly framework, API call, requests, callback functions for interactivity
 
